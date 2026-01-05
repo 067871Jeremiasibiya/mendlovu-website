@@ -31,17 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-This project is configured for deployment on Vercel. The easiest way to deploy is:
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-1. Push your code to GitHub, GitLab, or Bitbucket
-2. Import your repository on [Vercel](https://vercel.com/new)
-3. Vercel will automatically detect Next.js and use the configuration in `vercel.json`
-4. Your site will be deployed and live!
-
-### Migration from Netlify
-
-This project has been migrated from Netlify to Vercel due to Netlify's 300 monthly credits not renewing. The project is now configured for Vercel deployment with static export.
-
-**Hosting Cost Note:** R500 has been allocated for hosting costs from the account.
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
